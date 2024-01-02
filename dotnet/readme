@@ -1,0 +1,3 @@
+Use to access the feilds of the base class within derived class
+It is  useful when base & deriveed class has same feilds
+if base class doesnot define feild, there is no need to use base keyword
