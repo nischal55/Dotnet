@@ -12,3 +12,4 @@ E:\dotnet\obj\Debug\net7.0\refint\dotnet.dll
 E:\dotnet\obj\Debug\net7.0\dotnet.pdb
 E:\dotnet\obj\Debug\net7.0\dotnet.genruntimeconfig.cache
 E:\dotnet\obj\Debug\net7.0\ref\dotnet.dll
+E:\dotnet\obj\Debug\net7.0\dotnet.sourcelink.json

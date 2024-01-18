@@ -5,7 +5,7 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>DelegateTypes.DelegateTypes</StartupObject>
+    <StartupObject>DelegateEvent.DelegateEvent</StartupObject>
   </PropertyGroup>
 
 </Project>
