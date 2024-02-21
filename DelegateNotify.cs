@@ -1,7 +1,7 @@
 using System;
 namespace DelegateNotify{
    
-     public delegate void Notify();
+    public delegate void Notify();
     public class ProcessBysinessLogic{
             public event Notify ProcessCompleted;
             public void StartProcess(){

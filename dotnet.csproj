@@ -5,7 +5,7 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>DelegateNotify.DelegateNotify</StartupObject>
+    <StartupObject>LinqTest.LinqTest</StartupObject>
   </PropertyGroup>
 
 </Project>
