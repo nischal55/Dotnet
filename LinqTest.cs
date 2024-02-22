@@ -13,6 +13,7 @@ namespace LinqTest
         }
     }
     class LinqTest{
+
         static void Main(){
             System.Console.WriteLine("hello");
             List<Student> mylist = new List<Student>(){
